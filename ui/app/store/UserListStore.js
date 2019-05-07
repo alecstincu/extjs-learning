@@ -1,5 +1,5 @@
 Ext.Ajax.request({
-    url: 'http://localhost:8080/users',
+    url: 'http://localhost:8088/users',
     method: 'GET',
     timeout: 60000,
     cors: true,
